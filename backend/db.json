@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Premium Shagun Envelope (Pack of 10)",
+      "category": "Shagun Envelopes",
+      "price": 120,
+      "image": "/assets/logo.png"
+    },
+    {
+      "id": "p2",
+      "name": "Saree Cover - Satin",
+      "category": "Saree Covers",
+      "price": 250,
+      "image": "/assets/logo.png"
+    },
+    {
+      "id": "p3",
+      "name": "Paper Bag - Luxury (Pack of 5)",
+      "category": "Paper Bags",
+      "price": 180,
+      "image": "/assets/logo.png"
+    }
+  ],
+  "orders": []
+}
